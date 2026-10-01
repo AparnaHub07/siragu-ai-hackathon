@@ -1,0 +1,7 @@
+{
+  "name": "Pudhumai Penn AI",
+  "description": "Accessible Tamil-first AI voice assistant guiding rural women through the Tamil Nadu Pudhumai Penn higher education scheme.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
